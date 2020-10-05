@@ -1,0 +1,17 @@
+label {
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #cacaca;
+}
+
+.searchField {
+    width: 100%;
+    display: block;
+    border-width: 0 0 2px;
+    border-color: #0D47A1;
+    border-style: solid;
+    height: 50px;
+    font-size: 18px;
+    padding: 0;
+}

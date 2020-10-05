@@ -1,0 +1,20 @@
+.TemperatureWrapper {
+    display: flex;
+    align-items: flex-end;
+}
+
+.TemperatureWrapper h1 {
+    margin: 0;
+    line-height: 1;
+    color: #263238;
+}
+
+.TemperatureWrapper h4 {
+    margin: 0 0 0 20px;
+    font-size: 18px;
+    color: #01579B;
+    font-weight: 400;
+    background-color: #E1F5FE;
+    padding: 5px 20px;
+    border-radius: 50px;
+}
